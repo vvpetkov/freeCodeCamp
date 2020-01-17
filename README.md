@@ -11,7 +11,8 @@ Problems that I solved  from freeCodeCamp.org tutorials!
 |Applied Visual Design| 0/52 |:zzz:      |   
 
 
-### JavaScript Algorithms and Data Structures Certification (:mortar_board: 300 hours 👨‍💻) [✍️](https://vvpetkov.github.io/freeCodeCamp/JavaScript-Algorithms-and-Data-Structures/index.html)
+### JavaScript Algorithms and Data Structures Certification (:mortar_board: 300 hours 👨‍💻) [:zzz:](https://vvpetkov.github.io/freeCodeCamp/JavaScript-Algorithms-and-Data-Structures/index.html)
+| Technology | Problems | Status |
 |    :---      |     ---:     |     :---      |
 | Basic JavaScript 0/110    |  [28 problems soleved 100 %](https://vvpetkov.github.io/freeCodeCamp/)    |  :zzz:|
 
