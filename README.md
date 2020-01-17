@@ -2,12 +2,12 @@
 Problems that I solved  from freeCodeCamp.org tutorials! 
 
 
-### Responsive Web Design Certification (:mortar_board: 300 hours 👨‍💻) [✍️](https://vvpetkov.github.io/freeCodeCamp/ResponsiveWebDesign/index.html)
+### Responsive Web Design Certification (:mortar_board: 300 hours 👨‍💻) [✍️](https://vvpetkov.github.io/freeCodeCamp/Responsive-Web-Design/index.html)
 
 | Technology | Problems | Status |
 |    :---      |     ---:     |     :---      |
 | Basic HTML and HTML5    |  [28 problems soleved 100 %](https://vvpetkov.github.io/freeCodeCamp/Responsive-Web-Design/Basic-HTML-and-HTML5/index.html)    |  :heavy_check_mark: |
-| Basic CSS    |  [1/44 problems soleved 1 %](https://vvpetkov.github.io/freeCodeCamp/ResponsiveWebDesign/index.html)     | :point_left:     |
+| Basic CSS    |  [2/44 problems soleved 1 %](https://vvpetkov.github.io/freeCodeCamp/Responsive-Web-Design/Basic-CSS/index.html)     | :point_left:     |
 |Applied Visual Design| 0/52 |:zzz:      |   
 
 
