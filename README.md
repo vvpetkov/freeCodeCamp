@@ -1,8 +1,8 @@
 # 🏕️ freeCodeCamp
-Problems that I solved 👨‍💻 from freeCodeCamp.org tutorials!:mortar_board: 
+Problems that I solved 👨‍💻 from freeCodeCamp.org tutorials! 
 
 
-### Responsive Web Design Certification (300 hours) :fire: 
+### Responsive Web Design Certification (:mortar_board: 300 hours)
 
 | Technology | Problems | Status |
 |    :---      |     ---:     |     :---      |
