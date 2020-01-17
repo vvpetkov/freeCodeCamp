@@ -7,14 +7,14 @@ Problems that I solved  from freeCodeCamp.org tutorials!
 | Technology | Problems | Status |
 |    :---      |     ---:     |     :---      |
 | Basic HTML and HTML5    |  [28 problems soleved 100 %](https://vvpetkov.github.io/freeCodeCamp/Responsive-Web-Design/Basic-HTML-and-HTML5/index.html)    |  :heavy_check_mark: |
-| Basic CSS    | 1/44   [0/44 problems soleved 1 %](https://vvpetkov.github.io/freeCodeCamp/ResponsiveWebDesign/index.html)     | :point_left:     |
+| Basic CSS    |  [1/44 problems soleved 1 %](https://vvpetkov.github.io/freeCodeCamp/ResponsiveWebDesign/index.html)     | :point_left:     |
 |Applied Visual Design| 0/52 |:zzz:      |   
 
 
 ### JavaScript Algorithms and Data Structures Certification (:mortar_board: 300 hours 👨‍💻) [:zzz:](https://vvpetkov.github.io/freeCodeCamp/JavaScript-Algorithms-and-Data-Structures/index.html)
 | Technology | Problems | Status |
 |    :---      |     ---:     |     :---      |
-| Basic JavaScript 0/110    |  [28 problems soleved 100 %](https://vvpetkov.github.io/freeCodeCamp/)    |  :zzz:|
+| Basic JavaScript 0/110    |  [0/110 problems soleved 0 %](https://vvpetkov.github.io/freeCodeCamp/JavaScript-Algorithms-and-Data-Structures/index.html)    |  :zzz:|
 
 
 
