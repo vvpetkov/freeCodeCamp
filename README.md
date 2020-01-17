@@ -6,8 +6,8 @@ Problems that I solved  from freeCodeCamp.org tutorials!
 
 | Technology | Problems | Status |
 |    :---      |     ---:     |     :---      |
-| Basic HTML and HTML5    |  [28 problems soleved 100 %](https://vvpetkov.github.io/freeCodeCamp/Responsive Web Design Certification /(300 hours/)/Basic HTML and HTML5/index.html)    |  :heavy_check_mark: |
-| Basic CSS    | 1/44   [0/44 problems soleved 1 %](https://vvpetkov.github.io/freeCodeCamp/Responsive Web Design Certification (300 hours)/Basic HTML and HTML5/index.html)     | :point_left:     |
+| Basic HTML and HTML5    |  [28 problems soleved 100 %](https://vvpetkov.github.io/freeCodeCamp/Responsive Web Design/Basic HTML and HTML5/index.html)    |  :heavy_check_mark: |
+| Basic CSS    | 1/44   [0/44 problems soleved 1 %](https://vvpetkov.github.io/freeCodeCamp/Responsive Web Design/Basic HTML and HTML5/index.html)     | :point_left:     |
 |Applied Visual Design| 0/52 |:zzz:      |   
 
 
@@ -15,7 +15,7 @@ Problems that I solved  from freeCodeCamp.org tutorials!
 
 
 
-
+Responsive Web Design/Basic HTML and HTML5/index.html
 
 
 
