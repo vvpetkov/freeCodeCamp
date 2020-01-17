@@ -23,7 +23,6 @@ Problems that I solved 👨‍💻 from freeCodeCamp.org tutorials!
 
 
 
-
 [comment]: <> (Technology ("science of craft", from Greek τέχνη, techne, "art, skill, cunning of hand"; and -λογία, -logia) is the sum of techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation.)
 
 [comment]: <> (This is a comment, it will not be included)
