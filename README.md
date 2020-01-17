@@ -1,5 +1,5 @@
 # 🏕️ freeCodeCamp
-Problems that I solved from freeCodeCamp.org tutorials! 👨‍💻
+Problems that I solved 👨‍💻 from freeCodeCamp.org tutorials!:mortar_board: 
 
 
 ### Responsive Web Design Certification (300 hours) :fire: 
